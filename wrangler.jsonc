@@ -1,0 +1,12 @@
+{
+  "name": "mail-relay",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-04",
+
+  "send_email": [
+    {
+      "name": "EMAIL",
+      "destination_address": "elvismao.070512@gmail.com"
+    }
+  ]
+}
