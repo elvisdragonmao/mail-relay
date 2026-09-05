@@ -103,7 +103,7 @@ pnpm install -D wrangler
 登入 Cloudflare：
 
 ```bash
-npx wrangler login
+pnpx wrangler login
 ```
 
 ## Configuration
@@ -167,7 +167,7 @@ npx wrangler deploy
 成功後應該會建立：
 
 ```text
-moica-mail-relay
+mail-relay
 ```
 
 Worker。
